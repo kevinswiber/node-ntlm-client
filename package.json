@@ -1,0 +1,10 @@
+{
+  "name": "ntlm-client",
+  "private": "true",
+  "version": "0.0.1",
+  "author": "Kevin Swiber <kswiber@gmail.com>",
+  "dependencies": {
+    "request": "*",
+    "buffers": "*"
+  }
+}
